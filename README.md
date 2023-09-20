@@ -2,7 +2,7 @@
 This program numerically calculates $P_a$ and Wigner function $W(x, p)$ to search $\eta$(transmissivity of a beamsplitter) with which approximate photon-subtracted squeezed vacuum state $\rho$ become non-convex gaussian state having positive wigner function.
 
 Calculated formulas are as follows:
-$$ P_a = \frac{1}{67}((64\eta + 9\eta(1-\eta)^2) - a\times(9\eta^2(1-\eta)+3\eta^3)) $$
+$$P_a = \frac{1}{67}((64\eta + 9\eta(1-\eta)^2) - a\times(9\eta^2(1-\eta)+3\eta^3))$$
 
 $$
 \begin{align}
